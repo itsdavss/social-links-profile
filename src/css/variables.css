@@ -1,0 +1,6 @@
+:root {
+    --links-bg: hsl(0, 0%, 20%);
+    --card-bg: hsl(0, 0%, 12%);
+    --main-bg:hsl(0, 0%, 8%);
+    --highlight: hsl(75, 94%, 57%);
+}

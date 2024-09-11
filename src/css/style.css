@@ -1,0 +1,78 @@
+.main{
+    
+    background-color: var(--main-bg);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card img {
+    border-radius: 50%;
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card .infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card .infos h2 {
+    color: white;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.card .infos h3 {
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.card .infos p {
+    color: white;
+}
+
+.highlight {
+    color: var(--highlight);
+}
+
+.links {
+    margin: 10px;
+    width: 100%;
+}
+
+.links a {
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+}
+
+.links a:hover{
+    color: var(--card-bg);
+}
+
+.links a:hover li{
+    background-color: var(--highlight);
+}
+
+.links li{
+    background-color: var(--links-bg);
+    border-radius: 10px;
+    padding: 12px 70px;
+    margin: 10px;
+}
