@@ -2,6 +2,8 @@
 
 Esse foi a resolução do [desafio Social links profile do Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
+## [Vizualize o projeto clicando aqui](https://itsdavss.github.io/social-links-profile/) ##
+
 ## Tabela de conteúdos
 
 - [Visão geral](#visão-geral)
